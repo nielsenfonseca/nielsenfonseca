@@ -1,8 +1,7 @@
 <!-- Header -->
 <h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There! I'm Nielsen Fonseca! <img src="https://media2.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47yc01k5nxnaf184u2w848nwvuq35ddr21hi4xpi97&rid=giphy.gif&ct=ts" width="50"></h2>
-<p align='center'><em>Graduating at University of São Paulo and Intern at Itaú Unibanco
+<p align='center'><em>Graduating at <a href="https://www5.usp.br/"> University of São Paulo </a> and Intern at <a href="https://www.itau.com.br/"> Itaú Unibanco </a>
   
-
 <h2 align='center' href="https://www.linkedin.com/in/nielsenfonseca">
          <img alt="Banner" src="https://github.com/nielcfonseca/nielcfonseca/blob/main/Banner.png"
          width=900" height="200">
@@ -15,7 +14,7 @@
 Social Media
                   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nielsenfonseca/)      [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NielcFonseca)                   
-
+[![Discord]()()]
 </h4>
                                     
 ### 📫 Like to meet me?
