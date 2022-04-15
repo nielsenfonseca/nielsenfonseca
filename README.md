@@ -31,6 +31,14 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  - ![MySQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
  - Searching for more!
+ 
+ ----------
+ 
+ ## 🗂️ Highlight Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nielcfonseca&repo=nielcfonseca.github.io )](https://github.com/nielcfonseca/nielcfonseca.github.io)
+
+
 
                                                                                                
                                                                                                           
