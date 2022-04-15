@@ -13,8 +13,9 @@
                   
 Social Media
                   
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nielsen.mfj@gmail.com)                  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nielsenfonseca/)      [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NielcFonseca)                   
-[![Discord]()()]
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/channels/@me/Nielc/)
 </h4>
                                     
 ### 📫 Like to meet me?
