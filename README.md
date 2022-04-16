@@ -5,7 +5,7 @@
 <h2 align='center' href="https://www.linkedin.com/in/nielsenfonseca">
          <img alt="Banner" src="https://github.com/nielcfonseca/nielcfonseca/blob/main/Banner.png"
          width=900" height="200">
-</h2>
+</h2>                         
                                 
 ----------
                                 
@@ -36,7 +36,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nielcfonseca&repo=nielcfonseca.github.io )](https://github.com/nielcfonseca/nielcfonseca.github.io)
 
+----------
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nielcfonseca.nielcfonseca)   
 
                                                                                                
                                                                                                           
