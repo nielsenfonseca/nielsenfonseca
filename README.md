@@ -36,6 +36,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nielcfonseca&repo=nielcfonseca.github.io )](https://github.com/nielcfonseca/nielcfonseca.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nielcfonseca&repo=Landing-Page-Balle-Bot)](https://github.com/nielcfonseca/Landin-Page-Balle-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nielcfonseca&repo=Desafio-DNC)](89N3PDyZzakoH7W6n8ZrjGDDktjh8iWFG6eKRvi3kvpQ)
 
 ----------
 
