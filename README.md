@@ -24,9 +24,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
  - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  - ![MySQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
  - ![Alteryx Designer](https://img.shields.io/badge/Alteryx-0066CC?style=for-the-badge&logo=alteryx&logoColor=white)
- - ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
- - ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
+ - ![Generative AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+ - ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
  - Searching for more!
 
  ----------
