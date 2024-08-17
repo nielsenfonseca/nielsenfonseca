@@ -17,23 +17,19 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="https://calendly.com/nielsenfonseca/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-## Languages I am currently studying 💻
+## Languages and Tools I am currently studying 💻
 
- - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=bluee)
+ - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
  - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
  - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  - ![MySQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+ - ![Alteryx Designer](https://img.shields.io/badge/Alteryx-0066CC?style=for-the-badge&logo=alteryx&logoColor=white)
+ - ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+ - ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
  - Searching for more!
- 
+
  ----------
- 
- ## 🗂️ Highlight Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nielcfonseca&repo=nielcfonseca.github.io)](https://github.com/nielcfonseca/nielcfonseca.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nielcfonseca&repo=Landing-Page-Balle-Bot)](https://github.com/nielcfonseca/Landin-Page-Balle-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nielcfonseca&repo=Desafio-DNC)](https://github.com/nielcfonseca/Desafio-DNC)
-
-----------
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nielcfonseca.nielcfonseca)   
 
