@@ -1,6 +1,6 @@
 <!-- Header -->
 <h2 align='center'><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There! I'm Nielsen Fonseca! <img src="https://media2.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif?cid=ecf05e47yc01k5nxnaf184u2w848nwvuq35ddr21hi4xpi97&rid=giphy.gif&ct=ts" width="50"></h2>
-<p align='center'><em>Graduating at <a href="https://www5.usp.br/"> University of São Paulo </a> and Intern at <a href="https://www.itau.com.br/"> Itaú Unibanco </a>
+<p align='center'><em>Graduated @ <a href="https://www5.usp.br/"> University of São Paulo </a> and Risk Analyst <a href="https://www.itau.com.br/"> @ Itaú Unibanco </a>
                                                  
 ----------
                                 
